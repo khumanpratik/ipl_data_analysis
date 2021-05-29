@@ -1,4 +1,4 @@
-# IPL Data Analysis using SQL
+# Indian Premier League(IPL) Data Analysis 
 
 
 
@@ -15,7 +15,7 @@ To Extract some interesting Analysis/Insights from the IPL Dataset
 ## Technologies used :
 **Programming Language:** T-SQL (MS SQL Server)
 
-**Software used:** Microsoft Excel & Microsoft SQL Server Management Studio 18
+**Software used:** Microsoft Excel, Microsoft SQL Server Management Studio 18 & Tableau Public
 
 
 
@@ -57,9 +57,9 @@ To Extract some interesting Analysis/Insights from the IPL Dataset
 
 
 
-## Data visualization :
+## Data Visualization :
 
-**Tableau Public Profile** --> [Pratik Khuman](https://public.tableau.com/profile/pratik.khuman#!/ "https://public.tableau.com")
+### Tableau Public Profile --> [Pratik Khuman](https://public.tableau.com/profile/pratik.khuman#!/ "https://public.tableau.com")
 
 
 
